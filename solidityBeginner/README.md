@@ -36,7 +36,7 @@ You can use your wallet’s interface to specify which function you want to call
 
 ## Authors
 
-List of authors and contributors goes here.
+Beezy-cray
 
 ## License
 
