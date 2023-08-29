@@ -1,6 +1,6 @@
 # beezyCoin
 
-beezyCoin is an ERC-20 token implemented as a smart contract on the Ethereum blockchain.
+beezyCoin is token implemented as a smart contract on the Ethereum blockchain.
 
 ## Description
 
